@@ -1,4 +1,4 @@
-# Maintenance-Planning-with-reinforcement-learning
+# Condition-based Maintenance Planner: A Reinforcement Learning Approach.
 It contains a python-based survival analysis model to study the lifetime of machines in a 3-unit flowline production system, The simulation environment to be used with the RL algorithm for maintenance planning, Q-learning algorithm based maintenance policy, corrective and preventive maintenance policy simulations for comparison.
 In this project, a reinforcement learning approach is used to develop a condition-based maintenance
 policy for a three-unit serial production line with individually repairable machines, each machine has
